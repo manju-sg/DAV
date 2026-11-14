@@ -1,0 +1,19 @@
+# Notebooks
+app.ipynb
+notebooks/01_data_cleaning.ipynb
+notebooks/02_exploratory_data_analysis.ipynb
+notebooks/03_statistical_analysis.ipynb
+notebooks/04_advanced_analysis.ipynb
+notebooks/05_dashboard_preparation.ipynb
+
+# Datasets (except datasets/dashboard_data.csv)
+datasets/ember_india_clean.csv
+datasets/owid_energy.csv
+datasets/owid_india_clean.csv
+datasets/release_generation_yearly_global.csv
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
